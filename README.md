@@ -1,16 +1,5 @@
 # cupertino_store
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2022-10-12_17-39-29](https://user-images.githubusercontent.com/113766592/195339141-682ba422-4bc6-4b44-b6bf-504b7fdc19db.jpg)
+![photo_2022-10-12_17-39-26](https://user-images.githubusercontent.com/113766592/195339174-510df475-e36f-4d14-91d7-eea777ccb477.jpg)
